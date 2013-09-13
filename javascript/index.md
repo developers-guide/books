@@ -6,4 +6,4 @@ chapters:
   - introduction.md
 ---
 
-Learn how to write applications web using Javascript with **Introduction to Javascript**.
+Learn how to write web applications using Javascript with **Introduction to Javascript**.
