@@ -6,3 +6,4 @@ book: javascript
 
 Hello World
 ===========
+and hello Kitty
