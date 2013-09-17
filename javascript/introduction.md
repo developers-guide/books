@@ -6,4 +6,4 @@ book: javascript
 
 Hello World
 ===========
-and hello Kitty
+and hello Sven and Patrick
